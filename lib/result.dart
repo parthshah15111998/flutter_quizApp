@@ -29,6 +29,7 @@ class ResultPage extends StatelessWidget {
                 ),
               ),
             ),
+
             const SizedBox(height: 16),
             ElevatedButton(onPressed: c.restart, child: const Text('Restart')),
           ],
